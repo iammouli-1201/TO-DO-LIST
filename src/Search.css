@@ -1,0 +1,17 @@
+#search{
+    width: 300px;
+    margin-left: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.main1{
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+}
+#Demo1{
+    margin-bottom: 10px;
+}

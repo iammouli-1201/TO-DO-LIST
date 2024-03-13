@@ -1,0 +1,29 @@
+.form-container {
+    margin-top: 20px;
+  }
+
+  .label{
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  #add{
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+  
